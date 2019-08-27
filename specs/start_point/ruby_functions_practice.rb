@@ -64,3 +64,9 @@ when 10
   return "Oct"
 end
 end
+
+def test_volume_of_cube(x)
+  return x * x
+end
+
+test_volume_of_cube(3)
