@@ -66,7 +66,7 @@ end
 end
 
 def test_volume_of_cube(x)
-  return x * x
+  return x **3
 end
 
-test_volume_of_cube(3)
+test_volume_of_cube(5)
